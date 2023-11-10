@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Sinan Shoukath
+### Hi there 👋, I'm Sinan
 
 - 🔭 I’m currently working on Android/Kotlin
 - 🌱 I’m currently learning everything
